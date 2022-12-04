@@ -3,3 +3,6 @@ A simple script to display the performance of different sorting algorithm for be
 
 ### How to run
 Run "main.py"
+
+### Dependencies
+prettytable
