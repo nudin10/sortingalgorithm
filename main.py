@@ -4,6 +4,7 @@ import sys
 
 
 # Press the green button in the gutter to run the script.
+# Fix script: Inaccurate time recording of algorithms
 if __name__ == '__main__':
     sys.setrecursionlimit(2500)
 
